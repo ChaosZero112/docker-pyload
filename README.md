@@ -4,6 +4,8 @@ PyLoad
 
 **NOTICE**: If pyload is not able to update plugins, try to use `latest` tag
 
+**NOTICE2**: This is the same docker container as obi12341/docker-pyload, but with the tags stable (latest) and develop.
+
 Introduction
 ----
 pyLoad is a fast, lightweight and full featured download manager for many One-Click-Hoster, container formats like DLC, video sites or just plain http/ftp links. It aims for low hardware requirements and platform independence to be runnable on all kind of systems (desktop pc, netbook, NAS, router).
