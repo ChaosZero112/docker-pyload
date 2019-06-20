@@ -2,9 +2,7 @@ PyLoad
 =========
 [![Build Status](https://travis-ci.org/obi12341/docker-pyload.svg?branch=master)](https://travis-ci.org/obi12341/docker-pyload)
 
-**NOTICE**: If pyload is not able to update plugins, try to use `latest` tag
-
-**NOTICE2**: This is the same docker container as obi12341/docker-pyload, but with the tags stable (latest) and develop.
+**NOTICE**: This docker container contains 3 tags. Latest is the dockerfile from the [pyload repo](https://github.com/pyload/pyload/blob/master/Dockerfile) (as of June 19, 2019). Stable and develop are the same as obi12341/docker-pyload, but with the tags "stable" pulling from [pyload stable branch](https://github.com/pyload/pyload/tree/stable) and "develop" pulling from [pyload develop branch](https://github.com/pyload/pyload/tree/develop).
 
 Introduction
 ----
